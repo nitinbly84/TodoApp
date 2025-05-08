@@ -1,0 +1,10 @@
+.header {
+    background-color: yellow;
+    text-align:center;
+    font-weight: bold;
+    height: 60px;
+    padding: 10px;
+    font-size: 2em;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgb(25, 124, 43, 0.23);
+}

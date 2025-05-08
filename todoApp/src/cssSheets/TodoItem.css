@@ -1,0 +1,27 @@
+.TodoItem {
+    width: 500px;
+    color: green;
+    font-size: 20px;
+    margin: 0 auto;
+}
+.Item {
+    font-weight:bold;
+    padding: 20px;
+}
+.Line {
+    border: 0.1px ridge #645d5d;
+}
+.deletebutton {
+    float: right;
+    padding: 12px 20px;
+    border: none;
+    background-color: yellow;
+    color: red;
+    font-weight: bold;
+    margin-top: -10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.completed {
+    text-decoration: line-through red;
+}
